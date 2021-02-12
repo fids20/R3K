@@ -1,11 +1,5 @@
 ### FIDSBOT 
 
-<details>
- <summary>🍙 Help me!</summary>
- 
-</details>
-</div>
-
 ## Tools
 
 ```bash
