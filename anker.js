@@ -1,8 +1,6 @@
 //starts
-//Author : Nazwa
-//Hayolo numpang nama doang
-//Ckckckck
-//Mengaku yang bukan punya nya
+//Author : Fids
+
 const {
     WAConnection,
     MessageType,
@@ -108,7 +106,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = "#"
 blocked = []
 limitawal = userDefaultLimit
-cr = 'LOL~4NK3R-EROR'
+cr = 'FIDS'
 memberlimit = memberLimitss
 
 // Functions
